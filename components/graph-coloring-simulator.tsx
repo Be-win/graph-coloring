@@ -180,7 +180,7 @@ export default function GraphColoringSimulator() {
 
             <div className="space-y-2 pt-4 border-t">
               <div className="flex justify-between">
-                <span className="font-medium">Chromatic Number (χ):</span>
+                <span className="font-medium">Chromatic Number (x):</span>
                 <span className="font-bold">{chromaticNumber !== null ? chromaticNumber : "N/A"}</span>
               </div>
 
